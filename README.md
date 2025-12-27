@@ -1,4 +1,6 @@
 # 10,000 Hour Study Tracker
+(PS: Princy is only helping, not its project)
+
 A minimalist time-tracking application inspired by the 10,000-hour mastery concept.
 
 This tool focuses on one core function: tracking minutes spent practicing or studying a skill over time. Users log sessions, see cumulative progress, and build awareness around consistency rather than short-term productivity.
@@ -7,3 +9,6 @@ This project highlights my ability to intentionally scope software, focus on a s
 
 Language: Java
 Status: Basic Backend Done | UI in progress
+
+by https://github.com/sydfranks-byte
+
